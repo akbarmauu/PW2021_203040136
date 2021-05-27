@@ -77,8 +77,9 @@
                 <p>Password : gatau</p>
        
         <div class="collection">
-            <a href="pertemuan11/index.php" class="collection-item">Pertemuan 11</a>
-            <a href="pertemuan12/index.php" class="collection-item">Pertemuan 12</a>
+            <a href="kuliah/pertemuan10/latihan3.php" class="collection-item">Pertemuan 10</a>
+            <a href="kuliah/pertemuan11/index.php" class="collection-item">Pertemuan 11</a>
+            <a href="kuliah/pertemuan12/index.php" class="collection-item">Pertemuan 12</a>
         </ul>
     </li>
     </section>
@@ -106,7 +107,7 @@
                 <p>Username : abam</p>
                 <p>Password : 123</p>
             <div class="collection">
-                <a href="tubes/index.php" class="collection-item">Klik di Sini...</a>
+                <a href="tubes/index.php" class="collection-item">Tugas Besar 203040136...</a>
             </ul>
         </li>
         </section>
